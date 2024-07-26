@@ -1,6 +1,6 @@
 {
-  "name": "toolkitapp",
-  "homepage": "https://mosin23.github.io/toolkitapp",
+  "name": "rdapp",
+  "homepage": "https://mosin23.github.io/rdapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
