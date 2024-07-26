@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rdapp/static/css/main.6fd2c286.css",
+    "main.js": "/rdapp/static/js/main.a1b0bfc8.js",
+    "index.html": "/rdapp/index.html",
+    "main.6fd2c286.css.map": "/rdapp/static/css/main.6fd2c286.css.map",
+    "main.a1b0bfc8.js.map": "/rdapp/static/js/main.a1b0bfc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd2c286.css",
+    "static/js/main.a1b0bfc8.js"
+  ]
+}
